@@ -1,0 +1,6 @@
+{
+  "inputFormat": "JSON",
+  "inputSystem": "SAP",
+  "requiredServices": ["SRV_001", "SRV_002"],
+  "outputType": 1
+}
